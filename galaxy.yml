@@ -1,0 +1,11 @@
+namespace: "awx"
+name: "awx"
+version: "1.0.0"
+readme: "README.md"
+authors:
+    - "Ansible AWX"
+dependencies:
+license:
+    - "MIT"
+tags:
+repository: "https://github.com/pharriso/collection_from_git"
